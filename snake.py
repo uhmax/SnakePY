@@ -33,7 +33,6 @@ class snake(object):
             return
         else:
             self.direction = point
-            
 
 
     def move(self):
